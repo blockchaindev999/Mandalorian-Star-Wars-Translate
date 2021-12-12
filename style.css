@@ -1,0 +1,22 @@
+
+
+body {
+    background-color: slategray;
+}
+
+.center {
+    margin: 2vh auto 2vh auto;
+    display: block;
+    width: 50%;
+    text-align: center;
+}
+
+#translate-btn {
+    font-weight: bold;
+    width: 20%;
+    background-color: white;
+}
+
+#input-txt, #output-txt {
+    height: 20vh;
+}

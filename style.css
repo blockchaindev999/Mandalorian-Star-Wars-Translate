@@ -13,10 +13,14 @@ body {
 
 #translate-btn {
     font-weight: bold;
-    width: 20%;
+    width: 15rem;
+    font-size: larger;
+    padding: 0.5rem;
     background-color: white;
 }
 
 #input-txt, #output-txt {
     height: 20vh;
+    font-size: larger;
+    padding: 1em;
 }
